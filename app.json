@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "33.0.0",
+    "name": "Finding Fopunders",
+    "splash": {
+      "image": "./appdemo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
