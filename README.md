@@ -1,7 +1,7 @@
 # Finding Founders React Native Social Media App
 
 <div style="display: inline">
-<img src="https://github.com/shiyanboxer/Finding-Founders-React-Native-App/blob/master/appdemo.png" alt="IMAGE ALT TEXT HERE" width="1000" border="1" style="margin-right: 300px" />
+<img src="https://github.com/shiyanboxer/Finding-Founders-React-Native-Social-Media-App/blob/master/appdemo.png" alt="IMAGE ALT TEXT HERE" width="1000" border="1" style="margin-right: 300px" />
 </div>
 
 ### About
